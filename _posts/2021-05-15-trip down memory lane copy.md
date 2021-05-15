@@ -1,5 +1,0 @@
----
-layout: post
-slug: why
----
-
