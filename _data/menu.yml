@@ -1,0 +1,28 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: me
+    entries:
+      - title: github
+        url: https://github.com/sankethchebbi
+      - title: twitter
+        url: https://twitter.com/sankethchebbi
+      - title: mail 
+        url: mailto:sankethchebbi@gmail.com 
+
+  - title: thoughts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: archive
+      show_more_url: archive.html
+
+  - title: about
+    url: about   
+
+  - title: rss
+    url: feed.xml
+  
+
+          
