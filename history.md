@@ -29,7 +29,7 @@ Me and my above mentioned friend started hacking GTA Vice City and other small g
 
 ### 2013 
 
-All my time was spent on playiong games and exploring the internet. I thought HTML was the pinnacle of computer programming until Python and Java hit me like a truck. This was the year I became very curious about programming. 
+All my time was spent on playing games and exploring the internet. I thought HTML was the pinnacle of computer programming until Python and Java hit me like a truck. This was the year I became very curious about programming. 
 
 ### 2014 
 
@@ -37,7 +37,7 @@ I was very interested in cars from a young age and this year, I had got a small 
 
 ### 2015
 
-We were all into electronics at this point so we started exploring other projects we could make using these materials. A friend, who was 20 at the time, suggested we make a pirate radio and we were a bunch of 13 year olds who didn't understand anything. We looked up and with the help of [this wired article on how to make a pirate radio](https://www.wired.com/2015/11/create-your-own-pirate-radio/). This was a really fun project and we all enjoyed it although we broke it the same day. < damn kids >
+We were all into electronics at this point so we started exploring other projects we could make using these materials. A friend, who was 20 at the time, suggested we make a pirate radio and we were a bunch of 13 year olds who didn't understand anything. We looked up and with the help of [this wired article on how to make a pirate radio](https://www.wired.com/2015/11/create-your-own-pirate-radio/), we made a working radio. This was a really fun project and we all enjoyed it although we broke it the same day. < damn kids >
 
 ### 2016 - 2017 
 
