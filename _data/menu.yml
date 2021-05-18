@@ -22,7 +22,7 @@ entries:
     url: about   
 
   - title: good old times
-    url: got
+    url: history
 
   - title: rss
     url: feed.xml
