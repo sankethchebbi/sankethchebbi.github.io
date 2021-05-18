@@ -41,7 +41,7 @@ We were all into electronics at this point so we started exploring other project
 
 ### 2016 - 2017 
 
-These two years, I looked into competitive programming, penetration testing, software engineering, Linux, open source projects and GitHub. I loved what I had found and I started fiddling with all of the above. I fell in love with hacking[^2] as a concept and I wanted to learn it. I started doing CTF's and sometimes I would break some programs on [crackmes](https://crackmes.one/) too. The rush I had when discovering a vulnerability was unxplainable. 
+These two years, I looked into competitive programming, penetration testing, software engineering, Linux, open source projects and GitHub. I loved what I had found and I started fiddling with all of the above. I fell in love with hacking[^2] as a concept and I wanted to learn it. I started doing CTF's and sometimes I would break some programs on [crackmes](https://crackmes.one/) too. The rush I had when discovering a vulnerability was unexplainable.
 
 ### 2018 - 2019
 
