@@ -21,9 +21,6 @@ entries:
   - title: about
     url: about   
 
-  - title: good old times
-    url: history
-
   - title: rss
     url: feed.xml
   
