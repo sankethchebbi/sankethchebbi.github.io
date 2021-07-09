@@ -5,7 +5,14 @@ entries:
  #   - title: about
   #  url: about
 
-     
+     - title: me
+    entries:
+      - title: octosite
+        url: https://github.com/sankethchebbi
+      - title: birdsite
+        url: https://twitter.com/sankethchebbi
+      - title: mail 
+        url: mailto:sankethchebbi@gmail.com 
 #  - title: thoughts
  #   post_list:
   #    limit: 5
@@ -14,14 +21,8 @@ entries:
    #   show_more_url: archive.html
   - title: blog
     url: https://sankethchebbi.github.io/blog
-  - title: me
-    entries:
-      - title: octosite
-        url: https://github.com/sankethchebbi
-      - title: birdsite
-        url: https://twitter.com/sankethchebbi
-      - title: mail 
-        url: mailto:sankethchebbi@gmail.com 
-
+ 
+  - title: resume
+    url: https://resume.creddle.io/resume/5sqi7jqaep1
 #  - title: rss
   #  url: feed.xml      
