@@ -6,7 +6,7 @@ entries:
   #  url: about
 
      - title: me
-    entries:
+     entries:
       - title: octosite
         url: https://github.com/sankethchebbi
       - title: birdsite
