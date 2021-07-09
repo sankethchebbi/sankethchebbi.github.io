@@ -5,8 +5,8 @@ entries:
  #   - title: about
   #  url: about
 
-     - title: me
-     entries:
+  - title: me
+    entries:
       - title: octosite
         url: https://github.com/sankethchebbi
       - title: birdsite
@@ -19,6 +19,7 @@ entries:
    #   show_more: true
    #   show_more_text: archive
    #   show_more_url: archive.html
+
   - title: blog
     url: https://sankethchebbi.github.io/blog
  
