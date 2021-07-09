@@ -2,6 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+ #   - title: about
+  #  url: about
+
+     
+#  - title: thoughts
+ #   post_list:
+  #    limit: 5
+   #   show_more: true
+   #   show_more_text: archive
+   #   show_more_url: archive.html
+  - title: blog
+    url: https://sankethchebbi.github.io/blog
   - title: me
     entries:
       - title: octosite
@@ -10,19 +22,6 @@ entries:
         url: https://twitter.com/sankethchebbi
       - title: mail 
         url: mailto:sankethchebbi@gmail.com 
-     
-  - title: thoughts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: archive
-      show_more_url: archive.html
 
-  - title: about
-    url: about   
-
-  - title: rss
-    url: feed.xml
-  
-
-          
+#  - title: rss
+  #  url: feed.xml      
