@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research"
+    url: /research/    
+
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Second Brain"
+    url: https://google.com
+    
+  - title: "CV"
+    url: /cv/
+    
+    
+  # - title: "Guide"
+  #   url: /markdown
