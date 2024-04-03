@@ -4,17 +4,19 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/    
+    url: /research/
 
   - title: "Projects"
-    url: /projects/    
-    
+    url: /projects/
+
   - title: "Second Brain"
     url: https://notes.sanketh.in
-    
+
+  - title: "Blog"
+    url: https://blog.sanketh.in
+
   - title: "CV"
     url: /cv/
-    
-    
+
   # - title: "Guide"
   #   url: /markdown
