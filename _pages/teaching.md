@@ -20,6 +20,10 @@ author_profile: true
 - [Healthcare Appointment Booking System with Telemedicine Support](#) - Healthcare appointment booking with telemedicine support.
 - [Code Quality Analysis Tool for Software Development - profiler](#) - Code quality analysis tool for software development.
 - [Personal Finance Management App with Budgeting Tools](#) - Personal finance management app with budgeting tools.
+- [Rocket Propulsion Simulation](#) - computational physics proj
+- [Portfolio Optimization Library](#) - skfolio for portfolio optimization
+- [Monte Carlo Simulation for Option Pricing](#) - call put and strike. 
+- [Lightweight Dependency Injection Framework for SpringBoot](#) - i got the guice.
 
 ### BYOS - build your own stuff. This is where I replicate a lot of stuff. 
 > What I cannot create, I do not understand - Richard Phillips Feynman
@@ -50,6 +54,3 @@ author_profile: true
 - [Voxel Engine](#) - Software for rendering voxel-based graphics
 - [Web Browser](#) - Application for accessing and navigating the internet
 - [Web Server](#) - Software that serves web content to clients
-
-
-
