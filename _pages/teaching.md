@@ -15,15 +15,16 @@ author_profile: true
 
 - [Text editor in Assembly](#) - 2016 Text editor written entirely in Assembly
 - [Real-Time Chat Application with End-to-End Encryption](#) - Secure chat app with React/Node.js/CLI.
+- [Monte Carlo Simulation for Option Pricing](#) - call put and strike. 
+- [Rocket Propulsion Simulation](#) - computational physics proj
 - [Automated DevOps Pipeline with CI/CD](#) - Automated DevOps pipeline with React/CLI tools.
 - [Network Traffic Analyzer for Cybersecurity Monitoring](#) - Network traffic analyzer for cybersecurity monitoring.
+- [Lightweight Dependency Injection Framework for SpringBoot](#) - i got the guice.
 - [Healthcare Appointment Booking System with Telemedicine Support](#) - Healthcare appointment booking with telemedicine support.
 - [Code Quality Analysis Tool for Software Development - profiler](#) - Code quality analysis tool for software development.
 - [Personal Finance Management App with Budgeting Tools](#) - Personal finance management app with budgeting tools.
-- [Rocket Propulsion Simulation](#) - computational physics proj
 - [Portfolio Optimization Library](#) - skfolio for portfolio optimization
-- [Monte Carlo Simulation for Option Pricing](#) - call put and strike. 
-- [Lightweight Dependency Injection Framework for SpringBoot](#) - i got the guice.
+
 
 ### BYOS - build your own stuff. This is where I replicate a lot of stuff. 
 > What I cannot create, I do not understand - Richard Phillips Feynman
