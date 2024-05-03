@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### My work in computer programming, computational phyiscs and other miscellaneous subjects.
+### My work in computer programming, computational physics and other miscellaneous subjects.
 
 - [Text editor in Assembly](#) - 2016 Text editor written entirely in Assembly
 - [Real-Time Chat Application with End-to-End Encryption](#) - Secure chat app with React/Node.js/CLI.
@@ -24,7 +24,6 @@ author_profile: true
 - [Code Quality Analysis Tool for Software Development - profiler](#) - Code quality analysis tool for software development.
 - [Personal Finance Management App with Budgeting Tools](#) - Personal finance management app with budgeting tools.
 - [Portfolio Optimization Library](#) - skfolio for portfolio optimization
-
 
 ### BYOS - build your own stuff. This is where I replicate a lot of stuff. 
 > What I cannot create, I do not understand - Richard Phillips Feynman
