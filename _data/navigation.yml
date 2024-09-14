@@ -16,7 +16,7 @@ main:
     url: https://sanketh.in/blog
 
   - title: "CV"
-    url: /cv/
+    url: https://cv-sanketh.vercel.app
 
   # - title: "Guide"
   #   url: /markdown
